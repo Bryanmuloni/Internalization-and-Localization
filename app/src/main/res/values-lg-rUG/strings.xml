@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">I18N &amp; L10N</string>
+    <string name="txt_hello">Gwe! Olyotya?</string>
+    <string name="desc_profile_picture">Kifananyi</string>
+</resources>
